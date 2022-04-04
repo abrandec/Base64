@@ -1,6 +1,6 @@
 {
-    "name": "Base64 Encoder",
-    "description": "For encoding strings to base64",
+    "name": "Base64 Bytes Encoder",
+    "description": "For encoding bytes to base64",
     "author": "Brecht Devos <brecht@loopring.org>",
     "license": "AGPL-3.0-only",
     "version": "1.5.0",

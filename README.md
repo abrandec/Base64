@@ -15,7 +15,7 @@ Rinkeby - 0x1cead5ac23c5a8dd74348f623b69841feafbf201
 src
 ├─ tests
 │  └─ lol.t — "what tests"
-└─ Base64 — "For encoding strings to Base64"
+└─ Base64 — "For encoding bytes to Base64"
 ```
 
 ## Development
