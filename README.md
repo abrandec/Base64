@@ -2,9 +2,11 @@ Base64 Encoder
 
 ```
 Addresses: 
+----------
 ETH 
-------------
+----
 Rinkeby - 0x1cead5ac23c5a8dd74348f623b69841feafbf201
+
 ```
 
 ## Blueprint
