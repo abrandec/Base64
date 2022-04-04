@@ -1,0 +1,47 @@
+{
+  "_format": "ethers-rs-sol-cache-3",
+  "paths": {
+    "artifacts": "out",
+    "sources": "src",
+    "tests": "test",
+    "libraries": [
+      "lib"
+    ]
+  },
+  "files": {
+    "/home/a/Documents/github/something/src/Base64.sol": {
+      "lastModificationDate": 1649035403716,
+      "contentHash": "6c728e70a303a920a3db8050c638f7a8",
+      "sourceName": "src/Base64.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ]
+            }
+          },
+          "evmVersion": "london"
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.8.4",
+      "artifacts": {
+        "Base64": {
+          "0.8.4+commit.c7e474f2.Linux.gcc": "Base64.sol/Base64.json"
+        }
+      }
+    }
+  }
+}
