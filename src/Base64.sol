@@ -1,8 +1,7 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: AGPL-3.0-only
 pragma solidity 0.8.4;
 
-/// [MIT License]
-/// @title Base64
+/// @title Base64 Encoder
 /// @notice Provides a function for encoding some bytes in base64
 /// @author Brecht Devos <brecht@loopring.org>
 contract Base64 {
